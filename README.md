@@ -7,8 +7,8 @@ Unser Ziel ist es, die Überwachung jeglicher Serverräume für den Kunden so ei
 
 ## Das Team
 
-Projektleiter:      Martin Bitzan
-Projektl. Stv.:     Stefan Berger
-Projektmitarbeiter: Gregor Panzer
-Projektmitarbeiter: Laurenc Klas
-Projektmitarbeiter: Michael Soritz
+Projektleiter:      Martin Bitzan  
+Projektl. Stv.:     Stefan Berger  
+Projektmitarbeiter: Gregor Panzer  
+Projektmitarbeiter: Laurenc Klas  
+Projektmitarbeiter: Michael Soritz  
